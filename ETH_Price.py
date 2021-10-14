@@ -7,6 +7,7 @@ df = pd.read_csv('ETH_Historical_Data.csv')
 
 del df['Volume']
 
+# update
 
 # Date column shows up as string MM/DD/YYYY
 def string_to_date(date_string):
