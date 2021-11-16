@@ -1,8 +1,8 @@
 """
 
-This program utilized the dYdX API to retrieve live data for the ETH/USD market.
+This program utilizes the dYdX API to retrieve live data for the ETH/USD market.
 
-The data retrieved and printed to the user includeds the current ETH/USD exchange rate,
+The data retrieved and printed to the user includes the current ETH/USD exchange rate,
 the % change in the exchange rate in the last 24H, as well as the total volume traded
 in the last 24H.
 

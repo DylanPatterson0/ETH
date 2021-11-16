@@ -1,6 +1,6 @@
 """
 
-This program utilizes data download from Nasdaq, with historical price data for ETH/USD
+This program utilizes data downloaded from Nasdaq, with historical price data for ETH/USD
 exchange rates. This is static data as it is not automatically updated each day. The data is
 up to date as of 11/15/2021. Updated data can be downloaded from:
 https://www.nasdaq.com/market-activity/cryptocurrency/eth/historical
@@ -8,7 +8,6 @@ https://www.nasdaq.com/market-activity/cryptocurrency/eth/historical
 This program utilizes pandas and matplotlib to visualize the ETH/USD exchange rate appreciation
 over the past full year, both daily and as a monthly average. On another graph, this program
 visualises the daily percent change in price, or daily volatility.
-
 
 """
 
