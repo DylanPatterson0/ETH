@@ -4,7 +4,7 @@
 
 Major: Economics
 
-Minor: Blockchian, Computer Programming
+Minor: Blockchainn, Computer Programming
 
 Email: dylanpat@usc.edu
 
