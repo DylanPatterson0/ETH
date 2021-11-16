@@ -8,7 +8,7 @@ Minor: Blockchian, Computer Programming
 
 Email: dylanpat@usc.edu
 
-Twitter: @dylanpatterson.eth
+Twitter: @dylan0patterson
 
 Discord: @DeFiStudent
 
