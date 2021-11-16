@@ -1,9 +1,20 @@
+"""
+
+This program utilizes data download from Nasdaq, with historical price data for ETH/USD
+exchange rates. This is static data as it is not automatically updated each day. The data is
+up to date as of 11/15/2021. Updated data can be downloaded from:
+https://www.nasdaq.com/market-activity/cryptocurrency/eth/historical
+
+This program utilizes pandas and matplotlib to visualize the ETH/USD exchange rate appreciation
+over the past full year, both daily and as a monthly average. On another graph, this program
+visualises the daily percent change in price, or daily volatility.
+
+
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
-
-# we're going to be using ETH price data from Nasdaq, you can download the data at:
-# https://www.nasdaq.com/market-activity/cryptocurrency/eth/historical
 
 df = pd.read_csv('ETH_Historical_Data_1Y.csv')
 

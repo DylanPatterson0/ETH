@@ -90,5 +90,6 @@ def print_burned(n=50):
     print(formatted_dollars_burned, "were burned in the past", n, "blocks")
 
 
+print_burned()
 
 
