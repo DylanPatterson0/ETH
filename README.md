@@ -13,5 +13,5 @@ Twitter: @dylan0patterson
 Discord: ChefDee#9150
 
 
-This repository contains small projects that look to provide basic information on current ETH market conditions.
+This repository contains small projects that look to provide basic information on current Ethereum-USD market conditions.
 
